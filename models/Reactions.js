@@ -25,7 +25,7 @@ const reactionSchema = new Schema({
   // Export the Reaction subdocument schema
     module.exports = reactionSchema;
 
-Reaction (SCHEMA ONLY):
+//Reaction (SCHEMA ONLY):
 
 // reactionId:
 // Use Mongoose's ObjectId data type

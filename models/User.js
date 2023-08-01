@@ -1,5 +1,3 @@
-const User = require('./User');
-const Post = require('./Reactions');
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
